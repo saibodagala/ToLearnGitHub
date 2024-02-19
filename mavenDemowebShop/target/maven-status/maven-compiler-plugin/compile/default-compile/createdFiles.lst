@@ -1,0 +1,8 @@
+pom\LoginPage.class
+pom\RegisterPage.class
+pom\HomePage.class
+genericLibrary\ReadTheDatafromExternalFile.class
+genericLibrary\BaseClass.class
+genericLibrary\UtilityMethods.class
+genericLibrary\JavaScriptExecuter.class
+pom\BasicPage.class
